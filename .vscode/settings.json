@@ -1,0 +1,7 @@
+{
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "tslint.enable": false,
+    "playwright.reuseBrowser": true,
+    "playwright.runGlobalSetupOnEachRun": true,
+    "playwright.showTrace": false
+}
